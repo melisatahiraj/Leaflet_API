@@ -2,6 +2,8 @@
 
 ## Requirements
 
+![leaflet_grayMap](https://github.com/melisatahiraj/leaflet-challenge-15/assets/147450801/cc6eac6d-2b58-4c72-8a55-e8feb9a9f6f1)
+
 #### Map
 
 - TileLayer loads without error
