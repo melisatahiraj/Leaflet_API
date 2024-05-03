@@ -1,4 +1,4 @@
-# leaflet-challenge-15
+# Leaflet API
 
 ## Requirements
 
